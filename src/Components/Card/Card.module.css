@@ -1,0 +1,18 @@
+.card {
+    width: 159px;
+    height: 232px;
+    cursor: pointer;
+}
+
+.cardBody {
+    position: relative;
+    background-color: var(--color-white);
+    border-radius: 10px;
+    overflow: hidden;
+    height: 205px;
+}
+
+.cardImg {
+    object-fit: cover;
+}
+
